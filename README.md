@@ -80,6 +80,36 @@ metro.exe      # For Windows (or use precompiled binary)
 
 ---
 
+## 🖥️ Example Output
+
+```
+========== DELHI METRO APP ==========
+1. List All Stations
+2. Show Metro Map
+3. Get Shortest Route & Fare
+4. Exit
+====================================
+Enter your choice: 3
+Enter source station: Rajiv Chowk
+Enter destination station: Saket
+
+========== ROUTE DETAILS ==========
+Source: Rajiv Chowk
+Destination: Saket
+Total Distance: 13 km
+Total Fare: Rs 30
+Estimated Travel Time: 22 minutes
+Estimated Line Changes: 1
+
+========== SHORTEST PATH ==========
+Start at: Rajiv Chowk (Blue & Yellow Line)
+-> Central Secretariat (Yellow & Violet Line)
+-> Saket (Yellow Line)
+```
+
+---
+
+
 ## 👤 Solo Developer
 
 | Name         | Responsibilities                          |
