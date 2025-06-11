@@ -38,8 +38,8 @@ delhi-metro/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/GitGuru826004/delhi-metro.git
-cd delhi-metro
+git clone https://github.com/GitGuru826004/metro.git
+cd metro
 ```
 
 ### 2. Compile the Program
@@ -102,7 +102,7 @@ delhi-metro/
 
 ## 📌 Useful Links
 
-- 🔗 GitHub Repository: [https://github.com/GitGuru826004/delhi-metro](https://github.com/GitGuru826004/delhi-metro)
+- 🔗 GitHub Repository: [https://github.com/GitGuru826004/metro](https://github.com/GitGuru826004/metro)
 
 ---
 
